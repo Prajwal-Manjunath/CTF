@@ -1,2 +1,1 @@
-# CTF
-This is a central repository for recordkeeping the learnings of Capture the flag from picoctf
+A growing collection of digital forensics and security CTF writeups, documenting my process for uncovering hidden data
