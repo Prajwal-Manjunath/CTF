@@ -1,4 +1,4 @@
-## Challenge 3: Disguised Log File
+## Disguised Log File
 
 **File:** `logs.txt` (masquerading as a breach log)
 **Category:** Forensics File Carving / Data Exfiltration Analysis
